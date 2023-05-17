@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "puppeteer": "^20.1.2"
+  }
+}
