@@ -1,4 +1,4 @@
-const Browser = require('');
+const Browser = require('./common/Browser');
 const NavigationHandler = require('');
 
 class Main {
